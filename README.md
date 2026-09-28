@@ -25,7 +25,7 @@ html-pages-lab-01/
 npx live-server
 ```
 
-- GitHub Pages (si está activado): `https://nahataen.github.io/html-pages-lab-01/`
+- GitHub Pages (si está activado): `https://nahataen.github.io/Html-Pagina-1/`
 
 ## Notas
 
